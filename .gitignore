@@ -1,0 +1,24 @@
+# STM32CubeIDE Build output
+Debug/
+Release/
+*.o
+*.su
+*.d
+*.o.*
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Windows thumbnail caches
+Thumbs.db
+ehthumbs.db
+
+# Desktop.ini
+[Dd]esktop.ini
